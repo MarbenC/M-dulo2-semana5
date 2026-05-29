@@ -1,0 +1,5 @@
+La ruta crea una URL llamada "reporte" que recibe información enviada
+por el usuario y devuelve una confirmación en formato JSON.
+
+En una aplicación comunitaria podría utilizarse para que los ciudadanos
+envíen reportes sobre situaciones de interés para la comunidad.
